@@ -1,5 +1,7 @@
 # ControlNet
 
+[![Try a demo on Replicate](https://replicate.com/jagilley/controlnet-seg/badge)](https://replicate.com/jagilley/controlnet-seg)
+
 Cog implementation of [Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf).
 
 To run this Cog model:
